@@ -1,3 +1,3 @@
 # odin-recipes
 
-Recipes for the a dish that I like
+Recipes for the dish I like.
